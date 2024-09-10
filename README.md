@@ -16,5 +16,5 @@ A basic web app built using **HTML** to demonstrate simple webpage structure. Th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/cat-photo-app.git
+   git clone https://github.com/createwithanuj/cat-photo-app.git
 2. Open the index.html file directly in your web browser.
